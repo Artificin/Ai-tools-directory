@@ -8,7 +8,7 @@ Below is a categorized list of AI tools, each with its corresponding name, Artif
 
 ---
 
-## <span style="color:#91f61e9f">1. Text </span>
+## <span style="color:green">1. Text </span>
 **Best AI Text Tools for Writing & Content Creation - 2024**
 
 | Tool Name   | Artificin Link                                            | External Link                                                 |
