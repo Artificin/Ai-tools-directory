@@ -4,11 +4,9 @@ Explore a curated, ever-growing list of AI tools from text generation to data an
 
 # AI Tools Index
 
-Below is a categorized list of AI tools, each with its corresponding name, Artificin link (on **artificin.com/tools/...**), and external link. Simply add this file to your GitHub repo to provide a quick reference to all tools.
-
 ---
 
-## <span style="color:green">1. Text </span>
+## 1. Text 
 **Best AI Text Tools for Writing & Content Creation - 2024**
 
 | Tool Name   | Artificin Link                                            | External Link                                                 |
